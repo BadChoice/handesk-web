@@ -1,5 +1,6 @@
 # Handesk
-Very basic landing page using [Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/)
+
+Very basic [landing page](http://handesk.io) using [Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/)
 
 To see the project [Handesk](https://github.com/BadChoice/handesk)
 
